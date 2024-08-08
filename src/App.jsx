@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-
+import Footer from './components/Footer/Footer';
 
 
 function App() {
@@ -411,7 +411,7 @@ function App() {
           </div>
         </div>
       </section>
-
+      <Footer />
     </div>
 
 
