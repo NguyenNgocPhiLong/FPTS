@@ -72,7 +72,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="topfooter">
+      <div className="topmenu">
         <div className="topcontainer">
           <ul>
             {['TRANG CHỦ', 'GIAO DỊCH TRỰC TUYẾN', 'SẢN PHẨM DỊCH VỤ', 'CƠ HỘI NGHỀ NGHIỆP', 'HỖ TRỢ KHÁCH HÀNG', 'QUAN HỆ CỔ ĐÔNG', 'VỀ FPTS'].map(item => (
